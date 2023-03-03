@@ -10,6 +10,8 @@ void main(List<String> arguments) {
   plat1.initCoordonnees();
   plat1.afficherPlateau();
   plat1.generationSuivante();
+  
+  //Test
   //plat1.afficherPlateau();
 
   // print(plat1.nombreVoisin(
